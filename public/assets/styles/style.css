@@ -686,3 +686,10 @@ body > footer > ul {
 .arrow.up {
   transform: rotate(-135deg);
 }
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Puedes ajustar el margen según lo necesites */
+}
